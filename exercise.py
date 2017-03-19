@@ -7,3 +7,9 @@ s5= input("Enter the marks of s5: ")
 total= float(s1)+float(s2)+float(s3)+float(s4)+ float(s5)
 percentage = ((float(total) /500) *100)
 print("percentage is %.2f" %percentage)
+
+
+
+
+
+
